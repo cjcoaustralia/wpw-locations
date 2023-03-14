@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0260341,
+                    -27.4704528
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Brisbane",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.4,
+                    -28.016667
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Wellington Point",
+                "storeid": "2"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0618566,
+                    -27.7749944
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Logan",
+                "storeid": "3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.3446649,
+                    -27.5733214
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Redlands",
+                "storeid": "4"
+            }
+        }
+    ]
+}
